@@ -1,6 +1,6 @@
 # aishub-to-ydwg
 
-[![test](https://github.com/jwyattgh/aishub-to-ydwg/actions/workflows/test.yml/badge.svg)](https://github.com/jwyattgh/aishub-to-ydwg/actions/workflows/test.yml)
+[![test](https://github.com/sv-orion/aishub-to-ydwg/actions/workflows/test.yml/badge.svg)](https://github.com/sv-orion/aishub-to-ydwg/actions/workflows/test.yml)
 [![npm](https://img.shields.io/npm/v/@sv-orion/aishub-to-ydwg)](https://www.npmjs.com/package/@sv-orion/aishub-to-ydwg)
 
 A Signal K plugin that puts the vessels AISHub knows about onto your

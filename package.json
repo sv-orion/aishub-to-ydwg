@@ -22,11 +22,11 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwyattgh/aishub-to-ydwg.git"
+    "url": "git+https://github.com/sv-orion/aishub-to-ydwg.git"
   },
-  "homepage": "https://github.com/jwyattgh/aishub-to-ydwg#readme",
+  "homepage": "https://github.com/sv-orion/aishub-to-ydwg#readme",
   "bugs": {
-    "url": "https://github.com/jwyattgh/aishub-to-ydwg/issues"
+    "url": "https://github.com/sv-orion/aishub-to-ydwg/issues"
   },
   "engines": {
     "node": ">=18"
